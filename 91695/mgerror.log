@@ -1,0 +1,10 @@
+﻿ <-1> 28/06/2022 11:19:33.441     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 28/06/2022 11:19:33.504     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 28/06/2022 11:19:33.567     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 28/06/2022 11:19:33.629     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 28/06/2022 11:19:48.386     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+ <-1> 28/06/2022 11:19:48.394     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+ <-1> 28/06/2022 11:19:48.397     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : download .
+ <-1> 28/06/2022 11:20:18.748     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+ <-1> 28/06/2022 11:20:18.759     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+ <-1> 28/06/2022 11:20:18.769     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : download .

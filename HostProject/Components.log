@@ -1,0 +1,56 @@
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Add_On\UserFunctionality\UserFunctionality.eci (27/05/22 15:54:25)
+==========================================================================================================================================
+-----------------------------------
+
+-----------------------------------
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Builders\ECI\DotNetEventNotHandled\DotNetEventHandler.eci (27/05/22 16:01:45)
+=====================================================================================================================================================
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Memory .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Local .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Temp Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Memory Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default JSON Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Temporary JSON Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIADemo .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : OnlineSamples .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIASamples .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : MobileWeb .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Local .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large Local .
+Environment entry already exists in Magic.ini section : MAGIC_SERVERS Name : Default Broker .
+Environment entry already exists in Magic.ini section : MAGIC_SERVICES Name : Default Service .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+-----------------------------------
+
+-----------------------------------
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Builders\ECI\DotNetEventNotHandled\DotNetEventHandler.eci (27/05/22 16:44:57)
+=====================================================================================================================================================
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Memory .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Local .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Temp Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Memory Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default JSON Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Temporary JSON Database .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIADemo .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : OnlineSamples .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIASamples .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : MobileWeb .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Local .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large .
+Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large Local .
+Environment entry already exists in Magic.ini section : MAGIC_SERVERS Name : Default Broker .
+Environment entry already exists in Magic.ini section : MAGIC_SERVICES Name : Default Service .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+-----------------------------------

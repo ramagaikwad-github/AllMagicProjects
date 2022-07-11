@@ -1,0 +1,20 @@
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Add_On\UserFunctionality\UserFunctionality.eci (28/06/22 10:30:38)
+==========================================================================================================================================
+-----------------------------------
+
+-----------------------------------
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Builders\ECI\test2\test2.eci (28/06/22 11:19:48)
+========================================================================================================================
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : download .
+-----------------------------------
+
+Errors and Warnings while Loading Component : D:\xpaInstallation\xpa480\Builders\ECI\test1\test1.eci (28/06/22 11:20:18)
+========================================================================================================================
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : download .
+-----------------------------------

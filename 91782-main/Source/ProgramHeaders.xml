@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <Header>
+    <Version val="14081.00"/>
+    <WithIsn val="Y"/>
+  </Header>
+
+  <ProgramsRepositoryHeaders>
+    <Program>
+      <Header Description="Main Program" ISN_2="1" LastIsn="1" id="1">
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <SqlWhereExist val="N"/>
+        <TaskType val="B"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <Closeopentasks val="N"/>
+        <RunProjectAs val="O"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738337" _time="47543" date="01/07/2022" time="13:12:23"/>
+      </Header>
+      <SourceFileTimeStamp _date="738337" _time="27743" date="01/07/2022" time="07:42:23"/>
+    </Program>
+    <Program>
+      <Header Description="SetLang" ISN_2="1" LastIsn="2" id="4">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <ParametersAttributes/>
+        </ReturnValue>
+        <PARALLEL_EXECUTION>
+          <INITIATE_MAIN_PROG val="Y"/>
+          <COPY_GLOBAL_PARAMS val="Y"/>
+          <SingleInstance val="N"/>
+        </PARALLEL_EXECUTION>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <DotNetObjectExists val="N"/>
+        <ToBeMigrated val="Y"/>
+        <LastModified _date="738337" _time="47297" date="01/07/2022" time="13:08:17"/>
+      </Header>
+      <SourceFileTimeStamp _date="738337" _time="27497" date="01/07/2022" time="07:38:17"/>
+    </Program>
+    <Program>
+      <Header Description="GetLang" ISN_2="1" LastIsn="1" id="11">
+        <ExecutionRight comp="-1"/>
+        <Resident val="N"/>
+        <SQL val="N"/>
+        <ReturnValue>
+          <ReturnValueAttr/>
+          <TSK_PARAMS val="1"/>
+          <ParametersAttributes>
+            <Attr MgAttr="A"/>
+          </ParametersAttributes>
+        </ReturnValue>
+        <PARALLEL_EXECUTION>
+          <INITIATE_MAIN_PROG val="Y"/>
+          <COPY_GLOBAL_PARAMS val="Y"/>
+          <SingleInstance val="N"/>
+        </PARALLEL_EXECUTION>
+        <SqlWhereExist val="N"/>
+        <TaskType val="O"/>
+        <External val="N"/>
+        <Offline val="N"/>
+        <FormType val="N"/>
+        <DotNetObjectExists val="N"/>
+        <LastModified _date="738337" _time="47759" date="01/07/2022" time="13:15:59"/>
+      </Header>
+      <SourceFileTimeStamp _date="738337" _time="27959" date="01/07/2022" time="07:45:59"/>
+    </Program>
+  </ProgramsRepositoryHeaders>
+
+</Application>

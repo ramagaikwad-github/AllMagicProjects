@@ -1,0 +1,48 @@
+﻿ <-1> 27/05/2022 16:01:11.992     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:01:12.059     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:01:45.595     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Memory .
+ <-1> 27/05/2022 16:01:45.604     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Local .
+ <-1> 27/05/2022 16:01:45.624     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Database .
+ <-1> 27/05/2022 16:01:45.631     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Temp Database .
+ <-1> 27/05/2022 16:01:45.637     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Memory Database .
+ <-1> 27/05/2022 16:01:45.646     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Database .
+ <-1> 27/05/2022 16:01:45.653     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default JSON Database .
+ <-1> 27/05/2022 16:01:45.656     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Temporary JSON Database .
+ <-1> 27/05/2022 16:01:45.660     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIADemo .
+ <-1> 27/05/2022 16:01:45.663     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : OnlineSamples .
+ <-1> 27/05/2022 16:01:45.668     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIASamples .
+ <-1> 27/05/2022 16:01:45.672     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : MobileWeb .
+ <-1> 27/05/2022 16:01:45.675     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo .
+ <-1> 27/05/2022 16:01:45.678     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Local .
+ <-1> 27/05/2022 16:01:45.683     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large .
+ <-1> 27/05/2022 16:01:45.687     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large Local .
+ <-1> 27/05/2022 16:01:45.690     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_SERVERS Name : Default Broker .
+ <-1> 27/05/2022 16:01:45.693     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_SERVICES Name : Default Service .
+ <-1> 27/05/2022 16:01:45.696     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+ <-1> 27/05/2022 16:01:45.700     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+ <-1> 27/05/2022 16:43:23.014     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:43:23.069     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:44:47.655     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:44:47.708     [Error  ] - Cabinet File Name cannot be empty.
+ <-1> 27/05/2022 16:44:57.312     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Memory .
+ <-1> 27/05/2022 16:44:57.326     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Local .
+ <-1> 27/05/2022 16:44:57.335     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Database .
+ <-1> 27/05/2022 16:44:57.340     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : SQLite Temp Database .
+ <-1> 27/05/2022 16:44:57.343     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Memory Database .
+ <-1> 27/05/2022 16:44:57.346     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default XML Database .
+ <-1> 27/05/2022 16:44:57.348     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Default JSON Database .
+ <-1> 27/05/2022 16:44:57.350     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Temporary JSON Database .
+ <-1> 27/05/2022 16:44:57.352     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIADemo .
+ <-1> 27/05/2022 16:44:57.355     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : OnlineSamples .
+ <-1> 27/05/2022 16:44:57.357     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : RIASamples .
+ <-1> 27/05/2022 16:44:57.361     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : MobileWeb .
+ <-1> 27/05/2022 16:44:57.364     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo .
+ <-1> 27/05/2022 16:44:57.367     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Local .
+ <-1> 27/05/2022 16:44:57.370     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large .
+ <-1> 27/05/2022 16:44:57.372     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_DATABASES Name : Mobile Demo Large Local .
+ <-1> 27/05/2022 16:44:57.374     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_SERVERS Name : Default Broker .
+ <-1> 27/05/2022 16:44:57.377     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_SERVICES Name : Default Service .
+ <-1> 27/05/2022 16:44:57.379     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name1 .
+ <-1> 27/05/2022 16:44:57.382     [Error  ] - Environment entry already exists in Magic.ini section : MAGIC_LOGICAL_NAMES Name : Name2 .
+ <183570040733739456> 27/05/2022 16:45:08.722     [Error  ] - Program not found, Program: "Main Program".
+ <295915839932283968> 27/05/2022 16:45:29.738     [Error  ] - Program not found, Program: "Main Program".

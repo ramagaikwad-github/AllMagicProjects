@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Application>
+
+  <MobileDesignMode Val="N"/>
+
+  <EditProjectMode Val="N"/>
+
+  <DebugMode Val="N"/>
+
+  <RIAExecutionPlatform Val="Desktop"/>
+
+  <WatchListItems>
+    <RestData/>
+  </WatchListItems>
+
+  <ExpandedItems>
+    <ExpandedItem>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="3"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="5"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="11"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="3"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="2"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="4"/>
+      <OperationIsn Val="8"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="4"/>
+      <OperationIsn Val="10"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="4"/>
+      <OperationIsn Val="17"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="4"/>
+      <OperationIsn Val="15"/>
+    </ExpandedItem>
+    <ExpandedItem>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+      <Type Val="2"/>
+      <HandlerIsn Val="3"/>
+    </ExpandedItem>
+  </ExpandedItems>
+
+  <VisitedTasks>
+    <VisitedTask>
+      <PrgIsn Val="1"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="15"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="15"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="2"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="4"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+    <VisitedTask>
+      <PrgIsn Val="11"/>
+      <TaskIsn Val="1"/>
+    </VisitedTask>
+  </VisitedTasks>
+
+</Application>
